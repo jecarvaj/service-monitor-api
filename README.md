@@ -26,7 +26,18 @@ Correr seeders
 ```
 rails db:seed
 ```
-##### El backend debe quedar corriendo en ``` http://localhost:3000 ```
+#### El backend debe quedar corriendo en ``` http://localhost:3000 ```
+
+
+Usuarios de prueba:
+``` 
+admin@email.com
+ernesto@email.com  
+barbara@email.com  
+benjamin@email.com
+Password: 12345678
+    
+ ```
 
 ## Estructura Proyecto
 ### Modelos
