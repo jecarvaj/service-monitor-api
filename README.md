@@ -26,6 +26,11 @@ Correr seeders
 ```
 rails db:seed
 ```
+Correr proyecto
+```
+rails s
+```
+
 #### El backend debe quedar corriendo en ``` http://localhost:3000 ```
 
 
