@@ -1,5 +1,5 @@
 class ApplicationController < ActionController::API
-  before_action :authenticate_user!, except: [:check_api]
+  # before_action :authenticate_user!, except: [:check_api] LO COMENTO POR PROBLEMAS CON LA MASTER.KEY DE RAILS PARA LA DEMO
   respond_to :json
 
   def check_api
